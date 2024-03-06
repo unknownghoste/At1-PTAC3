@@ -1,0 +1,9 @@
+.footer{
+    display: flex;
+    height: 100px;
+    background-color: rgb(202, 157, 90)
+}
+
+.footer h1{
+    margin-top: 10px;
+}
